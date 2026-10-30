@@ -1,0 +1,6 @@
+{
+  "name": "MindFlip",
+  "description": "Think Different. Solve Everything. An original 2D brain and logic puzzle game with 100 levels across 5 chapters, tricky riddles, math reasoning, visual puzzles, and memory challenges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
